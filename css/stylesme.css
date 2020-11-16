@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  /* border: 3px, solid, black; */
+  padding-top: 80px;
+}
+
+h5 {
+  text-align: center;
+}
+
+.navbar {
+  padding-top: 100px;
+}
+
+.maintext {
+  padding-top: 20px;
+  text-align: justify;
+}
+
+.fotoampli {
+  text-align: center;
+  padding: 50px;
+}
+
+.footerContent {
+  text-align: center;
+}
